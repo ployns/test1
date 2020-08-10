@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-	printf("ploy");
+	printf("ploy napasorn");
 }
